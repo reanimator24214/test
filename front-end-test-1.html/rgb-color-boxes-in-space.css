@@ -1,0 +1,17 @@
+body{
+  background-color:#000000
+}
+.white{
+  position:absolute;
+  left:33.33333%;
+  background-color:#ffffff;
+  height:100%;
+  width:33.33333%;
+}
+.red{
+  position:relative;
+
+  height:50%;
+  color:red;
+  z-index:2
+}
